@@ -18,7 +18,7 @@ Berbeda dengan database NoSQL yang fleksibel, PostgreSQL adalah database relasio
 
 1.  **Login/Daftar**: Masuk ke [Supabase](https://supabase.com/) menggunakan akun GitHub.
 2.  **Buat Project**: Pilih nama project (misal: `Matkul-PemrogramanIII`) dan simpan password database Kalian.
-![image](https://image2url.com/r2/default/images/1774929957386-21aac3b2-091e-47a6-8e57-ff44ba836e9d.png)
+![image](images/1774929957386-21aac3b2-091e-47a6-8e57-ff44ba836e9d.png)
 
 ---
 
@@ -55,9 +55,9 @@ Jangan pernah menulis password database langsung di dalam kode program. Buat fil
 
 Untuk mendapatkan SUPABASE_DSN, ikuti langkah berikut :
 1. Buka **Project Settings** > **Cari Tombol Connect**.
-![image](https://image2url.com/r2/default/images/1774929656285-31e36e44-0493-4d29-b9fb-9a25749a81be.png)
+![image](images/1774929656285-31e36e44-0493-4d29-b9fb-9a25749a81be.png)
 2. Cari bagian **Direct Connection String** > **Connection Method** pilih **Session pooler** > pilih tab **URI** dan copy connection string tersebut.
-![image](https://image2url.com/r2/default/images/1774931155659-b7d33d03-e599-4989-a76e-f93e3b8bf56d.png)
+![image](images/1774931155659-b7d33d03-e599-4989-a76e-f93e3b8bf56d.png)
 3. Copy string tersebut (Format: `postgresql://postgres:[YOUR-PASSWORD]@db.xxxx.supabase.co:5432/postgres`).
 4. Paste pada file .env yang sudah dibuat sebelumnya. Kemudian ganti `[YOUR-PASSWORD]` dengan password yang kalian buat di tahap 2 saat membuat database di Supabase.
 5. Sehingga nanti di file env akan seperti ini : 
