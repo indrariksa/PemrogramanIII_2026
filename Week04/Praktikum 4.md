@@ -418,7 +418,7 @@ func main() {
 ---
 
 ## 9. Tugas Praktikum
-* **Modifikasi**: Tambahkan kolom `Email` pada `struct Mahasiswa` dan jalankan ulang aplikasi lakukan CRUD (Screenshoot).
+* **Modifikasi**: Tambahkan kolom `No HP` pada `struct Mahasiswa` dan jalankan ulang aplikasi lakukan CRUD (Screenshoot).
 * **SERTIFIKAT**: Kumpulkan minimal 1 sertifikat kompetensi Golang dari platform yang tersedia di materi.
 
 	### SERTIFIKAT
