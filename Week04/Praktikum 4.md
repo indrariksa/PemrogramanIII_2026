@@ -435,6 +435,6 @@ func main() {
 
 	> ### Yang dikumpulkan :
 	> * Link Github Kalian.
-	> * Screenshoot dari CRUD setelah penambahan kolom Email
+	> * Screenshoot dari CRUD setelah penambahan kolom No HP
 	> * Minimal 1 sertifikat kompetensi Golang (Boleh menggunakan link lain selain yang ada di atas)
 	> * File-file di atas dikumpulkan dalam 1 file zip.
