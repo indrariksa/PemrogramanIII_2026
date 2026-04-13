@@ -147,10 +147,12 @@ Mendefinisikan bentuk data yang dikirim dan diterima. Kita menggunakan tag `json
 ```go
 package model
 
-import "github.com/lib/pq"
+import (
+	"github.com/lib/pq"
+)
 
 type Mahasiswa struct {
-	NPM    string         `json:"npm"    gorm:"column:npm;primaryKey;type:varchar(20);not null"`
+	NPM    int64          `json:"npm"    gorm:"column:npm;primaryKey;type:bigint;not null"`
 	Nama   string         `json:"nama"   gorm:"column:nama;type:varchar(100);not null"`
 	Prodi  string         `json:"prodi"  gorm:"column:prodi;type:varchar(100);not null"`
 	Alamat string         `json:"alamat" gorm:"column:alamat;type:varchar(200)"`
