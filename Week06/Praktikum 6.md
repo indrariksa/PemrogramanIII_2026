@@ -485,7 +485,7 @@ Pada praktikum ini kita sudah:
 * Mengambil data dari backend
 * Menampilkan data ke UI
 
-## Pengumpulan
+## Pengumpulan Praktikum
 - Push ke direktori Pertemuan06/Praktikum
 - Screenshoot dari frontend ketika tabel berhasil ditampilkan (Push ke direktori Pertemuan06/Praktikum/Hasil)
 
@@ -515,3 +515,8 @@ Pada praktikum ini kita sudah:
 
 ![image](images/tugas.png)
 ---
+
+## Pengumpulan Tugas
+- Push ke direktori Pertemuan06/Tugas
+- Screenshoot dari frontend ketika tabel berhasil ditampilkan (Push ke direktori Pertemuan06/Tugas/Hasil)
+- Deadline 26 April 2026
