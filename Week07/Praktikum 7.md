@@ -770,7 +770,7 @@ Pada praktikum ini kita sudah:
 
 ## Pengumpulan
 
-* Push ke direktori `Week07/Praktikum`
+* Push ke direktori `Pertemuan07/Praktikum`
 * Screenshot:
   * Dashboard
   * Halaman Mahasiswa
