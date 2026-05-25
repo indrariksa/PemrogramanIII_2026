@@ -2,8 +2,6 @@
 
 ## Frontend: CRUD Mahasiswa + Routing Persisten + Atomic Design + Responsive + SweetAlert2
 
-Dokumen ini berisi **semua kode lengkap** agar hasil akhir **sama persis** dengan project `my-fe`. Jika mahasiswa masih berada di Praktikum 7 lalu mengikuti Praktikum 9 ini **langkah demi langkah**, hasilnya akan sama dengan project `my-fe` saat ini.
-
 # Tujuan Pembelajaran
 
 Setelah mengikuti praktikum ini, mahasiswa mampu:
