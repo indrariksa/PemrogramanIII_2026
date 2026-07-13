@@ -467,7 +467,7 @@ Pastikan:
 - Batas pengumpulan tugas besar: **seminggu sebelum jadwal UAS**
 - Presentasi tugas besar: **saat pertemuan asesmen** atau boleh sebelum pertemuan asesmen
 - Telat pengumpulan akan mendapatkan pengurangan nilai
-- Link pengumpulan: **menyusul**
+- Link pengumpulan: **Edlink**
 
 ---
 
